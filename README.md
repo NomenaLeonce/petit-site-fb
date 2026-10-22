@@ -1,2 +1,2 @@
 # petit-site-fb
-comme quelque exemple du site facebook
+comme quelque exemple du site facebook en HTML seulement
